@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-buildingreactjsgenai-dev-d8c4d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::639340407581:role/amplify-buildingreactjsgenai-dev-d8c4d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::639340407581:role/amplify-buildingreactjsgenai-dev-d8c4d-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-buildingreactjsgenai-dev-d8c4d-deployment",
+      "UnauthRoleName": "amplify-buildingreactjsgenai-dev-d8c4d-unauthRole",
+      "StackName": "amplify-buildingreactjsgenai-dev-d8c4d",
+      "StackId": "arn:aws:cloudformation:us-east-1:639340407581:stack/amplify-buildingreactjsgenai-dev-d8c4d/a98a0410-f65d-11ee-b515-0affd09b0077",
+      "AmplifyAppId": "dfd4fs8xg6hkx"
+    },
+    "categories": {
+      "auth": {
+        "buildingreactjsgenai70b1a3d9": {}
+      }
+    }
+  },
+  "genai": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-buildingreactjsgenai-genai-cfbc4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::639340407581:role/amplify-buildingreactjsgenai-genai-cfbc4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::639340407581:role/amplify-buildingreactjsgenai-genai-cfbc4-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-buildingreactjsgenai-genai-cfbc4-deployment",
+      "UnauthRoleName": "amplify-buildingreactjsgenai-genai-cfbc4-unauthRole",
+      "StackName": "amplify-buildingreactjsgenai-genai-cfbc4",
+      "StackId": "arn:aws:cloudformation:us-east-1:639340407581:stack/amplify-buildingreactjsgenai-genai-cfbc4/6f13f910-f65f-11ee-8801-0e1b909f5753",
+      "AmplifyAppId": "d14pakq26y5tji"
+    },
+    "categories": {
+      "auth": {
+        "buildingreactjsgenai70b1a3d9": {}
+      }
+    }
+  }
+}
